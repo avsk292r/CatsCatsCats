@@ -1,4 +1,5 @@
 import CatCard from '../css/CatCard'
+import './css/catcard.css'
 
 function CatCard({ cat }) {
     return (
